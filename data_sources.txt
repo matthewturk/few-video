@@ -1,2 +1,14 @@
 aquifer 2ef2a0785fb42ca7f566aca89e2188de8a111897929ddb8ba69a8aefaf3b81dd https://water.usgs.gov/GIS/metadata/usgswrd/XML/sir2009-5060_unit_alt_grid.xml
 aquifer 654d55f4fbdcbc419fdbca3daf2ec9919858482318ddd0660b64aa2426b3d84a https://water.usgs.gov/GIS/dsdl/sir2009-5060_unit_alt_grid.zip
+central-valley b51ea653bff77e2b4551b19cea2639ceb69b04270828a56595e4ca46752540b3  https://water.usgs.gov/GIS/dsdl/pp1766_Alluvial_Bnd.zip
+central-valley 5e2064d92b6d0201780856ec2c5dac5b07077af14712442a8aa92c83808d5532  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer1_Top_surf.zip
+central-valley 63d304b8aac62c538767414efc86641382d8ba8abb2de0330f969e8e08912f6f  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer2_Top_surf.zip
+central-valley 0cd604e181272e1d5e6286ee3bf9345ca15332415951c23ed6039dd1dc98758b  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer3_Top_surf.zip
+central-valley 2f12c24c20215ac7d8d7a4b97191df33f257707ed5efe7b030bbaa2c9d2ac8fe  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer4_Top_surf.zip
+central-valley 8b2ac6947f05ebb3039ad83dbfdf5e3e554fa94be08b323283319e858e8f786b  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer5_Top_surf.zip
+central-valley afbacd094a9d6e03ef4661af75492a08a25a1e85b38d7087aeda1b63c0c4251d  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer6_Top_surf.zip
+central-valley af5fdca4b8a16f237af7371e7ea99b2213a3cb88ab58575a77546089bb84248c  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer7_Top_surf.zip
+central-valley 7ddd6f47573e2448e1788d1e6de03bc93cce0bd885071a3360a9658b9ec493b3  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer8_Top_surf.zip
+central-valley 6efc1c4aebe9f8167e2dd45b087178402fadecbd02e757f5bb706c20e68488b5  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer9_Top_surf.zip
+central-valley 0534c54fc7d53fad656dc4ead7926b1cdc0ec2ef3663b881dd929aa28fcf7643  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer10_Bot_surf.zip
+central-valley 178b44911d54f458f4ba336d3fce5245c49136a17983e2b7a560c3f7ba82e9de  https://water.usgs.gov/GIS/dsdl/PP1766_DIS_Layer10_Top_surf.zip
