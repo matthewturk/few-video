@@ -1,0 +1,2 @@
+aquifer 2ef2a0785fb42ca7f566aca89e2188de8a111897929ddb8ba69a8aefaf3b81dd https://water.usgs.gov/GIS/metadata/usgswrd/XML/sir2009-5060_unit_alt_grid.xml
+aquifer 654d55f4fbdcbc419fdbca3daf2ec9919858482318ddd0660b64aa2426b3d84a https://water.usgs.gov/GIS/dsdl/sir2009-5060_unit_alt_grid.zip
